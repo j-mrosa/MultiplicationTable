@@ -1,0 +1,10 @@
+D:\Documents\Juliana\NBCC - Programmer Analyst\Winter 2021\Object Oriented Programming\Practice\Practice 4-tabuada\obj\Debug\Practice 4-tabuada.csprojAssemblyReference.cache
+D:\Documents\Juliana\NBCC - Programmer Analyst\Winter 2021\Object Oriented Programming\Practice\Practice 4-tabuada\obj\Debug\Practice_4_tabuada.Form1.resources
+D:\Documents\Juliana\NBCC - Programmer Analyst\Winter 2021\Object Oriented Programming\Practice\Practice 4-tabuada\obj\Debug\Practice_4_tabuada.Properties.Resources.resources
+D:\Documents\Juliana\NBCC - Programmer Analyst\Winter 2021\Object Oriented Programming\Practice\Practice 4-tabuada\obj\Debug\Practice 4-tabuada.csproj.GenerateResource.cache
+D:\Documents\Juliana\NBCC - Programmer Analyst\Winter 2021\Object Oriented Programming\Practice\Practice 4-tabuada\obj\Debug\Practice 4-tabuada.csproj.CoreCompileInputs.cache
+D:\Documents\Juliana\NBCC - Programmer Analyst\Winter 2021\Object Oriented Programming\Practice\Practice 4-tabuada\bin\Debug\Practice 4-tabuada.exe.config
+D:\Documents\Juliana\NBCC - Programmer Analyst\Winter 2021\Object Oriented Programming\Practice\Practice 4-tabuada\bin\Debug\Practice 4-tabuada.exe
+D:\Documents\Juliana\NBCC - Programmer Analyst\Winter 2021\Object Oriented Programming\Practice\Practice 4-tabuada\bin\Debug\Practice 4-tabuada.pdb
+D:\Documents\Juliana\NBCC - Programmer Analyst\Winter 2021\Object Oriented Programming\Practice\Practice 4-tabuada\obj\Debug\Practice 4-tabuada.exe
+D:\Documents\Juliana\NBCC - Programmer Analyst\Winter 2021\Object Oriented Programming\Practice\Practice 4-tabuada\obj\Debug\Practice 4-tabuada.pdb
